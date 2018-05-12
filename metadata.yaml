@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4813'
     url: http://www.gutenberg.org/2009/agents/4813
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27080#G.-K.-Chesterton-A-Critical-Study
 gutenberg_issued: '2008-10-28'
 gutenberg_type: Text
 identifiers:
