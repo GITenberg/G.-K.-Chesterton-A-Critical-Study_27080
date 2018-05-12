@@ -1,0 +1,26 @@
+_repo: G.-K.-Chesterton-A-Critical-Study_27080
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27080-h/images/cover.jpg
+creator:
+  author:
+    agent_name: West, Julius
+    birthdate: 1891
+    deathdate: 1918
+    gutenberg_agent_id: '4813'
+    url: http://www.gutenberg.org/2009/agents/4813
+description: ''
+gutenberg_issued: '2008-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27080'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Chesterton, G. K. (Gilbert Keith), 1874-1936 -- Criticism and interpretation'
+title: G. K. Chesterton, A Critical Study
+url: http://www.gutenberg.org/ebooks/27080
